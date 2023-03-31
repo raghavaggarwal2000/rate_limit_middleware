@@ -1,0 +1,14 @@
+{
+  "name": "rate_limiter_middleware",
+  "version": "1.0.0",
+  "description": "",
+  "main": "rate_limit.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express-rate-limit": "^6.7.0"
+  }
+}
